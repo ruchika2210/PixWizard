@@ -1,0 +1,55 @@
+.parallex-image {
+    background-image: url("../assets/sku.jpg");
+    /* Set a specific height */
+  height: 100%;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#text-centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: 'Manrope', sans-serif;
+    color: white;
+    font-weight: lighter;
+}
+  .bg-dark{
+background-color: black;
+  }
+body, html {
+    height: 100%;
+    font-family: 'Manrope', sans-serif;
+}
+.font{
+    font-family: 'Manrope', sans-serif;
+}
+.Modify
+{
+  color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    float: right;
+    
+}
+.navbar-nav
+{
+  margin-left: auto;
+}
+.hw{
+    height: 500px;
+    width:350px;
+    border-radius: 5px;
+}
+.ta
+{
+  text-align: left;
+  margin: 2px;
+}
+.tr{
+    text-align: right;
+}
