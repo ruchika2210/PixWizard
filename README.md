@@ -1,0 +1,2 @@
+# PixWizard
+Photography gallery page
